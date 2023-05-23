@@ -8,9 +8,6 @@ Este é um aplicativo de Ponto de Venda (PDV) desenvolvido em Python usando a bi
 - Gerenciamento de produtos: é possível adicionar, editar e remover produtos do catálogo.
 - Histórico de vendas: o aplicativo mantém um registro das vendas realizadas para consulta posterior.
 
-## Capturas de Tela
-
-Inclua algumas capturas de tela do aplicativo em ação.
 
 ## Instalação e Uso
 
