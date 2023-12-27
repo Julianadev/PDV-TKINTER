@@ -11,7 +11,7 @@ Este é um aplicativo de Ponto de Venda (PDV) desenvolvido em Python usando a bi
 
 ## Instalação e Uso
 
-1. Certifique-se de ter o Python instalado (versão X.X ou superior).
+1. Certifique-se de ter o Python instalado (versão 3.1 ou superior).
 2. Clone este repositório em sua máquina local.
 3. Navegue até o diretório do projeto e instale as dependências usando o seguinte comando:
 
